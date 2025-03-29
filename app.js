@@ -15,6 +15,11 @@ app.use(express.json()); // Pour traiter les requêtes JSON
 // Charger les données depuis le fichier JSON
 const metiersData = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'metiers.json')));
 
+app.get('/', (req, res) => {
+    res.send('🚀 API en ligne et fonctionnelle !');
+  });
+  
+
 // Route pour récupérer tous les métiers
 app.get('/metiers', (req, res) => {
   res.json(metiersData);
