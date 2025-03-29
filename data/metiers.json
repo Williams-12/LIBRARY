@@ -1,0 +1,141 @@
+[
+    {
+      "nom": "Développeur Frontend",
+      "definition": "Le développeur frontend est responsable de la création de l'interface utilisateur d'un site web ou d'une application.",
+      "missions": [
+        "Développer des interfaces utilisateur",
+        "Collaborer avec les designers",
+        "Optimiser la performance des pages web"
+      ],
+      "competences": {
+        "techniques": ["HTML", "CSS", "JavaScript", "React", "Vue.js"],
+        "humaines": ["Travail d'équipe", "Créativité", "Communication"]
+      },
+      "outils": ["VSCode", "Git", "Webpack", "Figma", "Sass"],
+      "salaires": {
+        "debutant": "35 000€",
+        "intermediaire": "50 000€",
+        "senior": "70 000€"
+      },
+      "zones_geographiques": ["Paris", "Londres", "New York"],
+      "avantages": ["Travail créatif", "Demande élevée sur le marché", "Évolution rapide"],
+      "limites": ["Pression des délais", "Routine dans certains projets"],
+      "exemple_parcours": "Formation en développement web, puis expérience avec des projets open-source."
+    },
+    {
+      "nom": "Développeur Backend",
+      "definition": "Le développeur backend est responsable de la gestion des données et de la logique métier dans une application web.",
+      "missions": [
+        "Concevoir et implémenter des API",
+        "Gérer la base de données",
+        "Optimiser les performances du serveur"
+      ],
+      "competences": {
+        "techniques": ["Node.js", "Python", "Java", "SQL", "MongoDB"],
+        "humaines": ["Autonomie", "Analyse", "Communication"]
+      },
+      "outils": ["Postman", "Docker", "Git", "Nginx"],
+      "salaires": {
+        "debutant": "40 000€",
+        "intermediaire": "55 000€",
+        "senior": "75 000€"
+      },
+      "zones_geographiques": ["Paris", "Berlin", "San Francisco"],
+      "avantages": ["Grande demande sur le marché", "Travail intellectuellement stimulant"],
+      "limites": ["Temps de réponse parfois long", "Gestion de la sécurité complexe"],
+      "exemple_parcours": "Formation en informatique, puis expérience en développement backend."
+    },
+    {
+      "nom": "Développeur Fullstack",
+      "definition": "Le développeur fullstack maîtrise à la fois le développement frontend et backend. Il peut travailler sur toute la chaîne d'une application.",
+      "missions": [
+        "Développer des applications web complètes",
+        "Gérer à la fois le frontend et le backend",
+        "Collaborer avec les autres équipes pour définir les fonctionnalités"
+      ],
+      "competences": {
+        "techniques": ["JavaScript", "Node.js", "React", "Vue.js", "MongoDB", "SQL"],
+        "humaines": ["Polyvalence", "Autonomie", "Communication"]
+      },
+      "outils": ["VSCode", "Git", "Webpack", "Docker"],
+      "salaires": {
+        "debutant": "40 000€",
+        "intermediaire": "60 000€",
+        "senior": "85 000€"
+      },
+      "zones_geographiques": ["Paris", "Londres", "New York"],
+      "avantages": ["Polyvalence", "Évolution rapide", "Demande croissante sur le marché"],
+      "limites": ["Responsabilités élevées", "Complexité des projets"],
+      "exemple_parcours": "Formation en développement web et expérience dans plusieurs projets fullstack."
+    },
+    {
+      "nom": "Développeur Mobile",
+      "definition": "Le développeur mobile crée des applications pour les smartphones et tablettes sur des systèmes d'exploitation comme Android ou iOS.",
+      "missions": [
+        "Développer des applications mobiles",
+        "Assurer la compatibilité avec différentes tailles d'écran",
+        "Collaborer avec les équipes UX/UI pour l'interface"
+      ],
+      "competences": {
+        "techniques": ["Kotlin", "Swift", "Java", "React Native", "Flutter"],
+        "humaines": ["Créativité", "Travail d'équipe", "Réactivité"]
+      },
+      "outils": ["Xcode", "Android Studio", "Git", "Firebase"],
+      "salaires": {
+        "debutant": "35 000€",
+        "intermediaire": "50 000€",
+        "senior": "70 000€"
+      },
+      "zones_geographiques": ["Paris", "San Francisco", "Berlin"],
+      "avantages": ["Travail créatif", "Demande croissante", "Possibilités d'évolution"],
+      "limites": ["Pression des délais", "Complexité des mises à jour"],
+      "exemple_parcours": "Formation en développement mobile et stage ou projet open-source."
+    },
+    {
+      "nom": "Développeur NoCode / LowCode",
+      "definition": "Le développeur NoCode/LowCode crée des applications en utilisant des outils visuels sans ou avec très peu de code.",
+      "missions": [
+        "Développer des applications sans coder ou avec un minimum de code",
+        "Utiliser des outils comme Bubble, Adalo ou OutSystems",
+        "Collaborer avec des équipes pour définir des solutions rapides"
+      ],
+      "competences": {
+        "techniques": ["Bubble", "Adalo", "Zapier", "OutSystems"],
+        "humaines": ["Créativité", "Autonomie", "Communication"]
+      },
+      "outils": ["Bubble", "Adalo", "Integromat", "Zapier"],
+      "salaires": {
+        "debutant": "30 000€",
+        "intermediaire": "45 000€",
+        "senior": "60 000€"
+      },
+      "zones_geographiques": ["Paris", "Londres", "New York"],
+      "avantages": ["Rapidité de développement", "Facilité d'accès à la technologie", "Demande croissante"],
+      "limites": ["Moins de contrôle sur le code", "Limitations des outils NoCode"],
+      "exemple_parcours": "Expérience avec des plateformes NoCode et projets personnels."
+    },
+    {
+      "nom": "DevOps",
+      "definition": "Le DevOps améliore la collaboration entre les équipes de développement et d'exploitation pour accélérer le cycle de développement et déploiement.",
+      "missions": [
+        "Automatiser le processus de déploiement",
+        "Gérer les serveurs et les infrastructures cloud",
+        "Assurer la surveillance des performances"
+      ],
+      "competences": {
+        "techniques": ["Docker", "Kubernetes", "CI/CD", "Terraform", "AWS", "Azure"],
+        "humaines": ["Esprit d'équipe", "Communication", "Réactivité"]
+      },
+      "outils": ["Jenkins", "Docker", "Kubernetes", "GitLab", "AWS", "Terraform"],
+      "salaires": {
+        "debutant": "40 000€",
+        "intermediaire": "60 000€",
+        "senior": "80 000€"
+      },
+      "zones_geographiques": ["Paris", "Londres", "San Francisco"],
+      "avantages": ["Travail avec des technologies de pointe", "Grande demande sur le marché"],
+      "limites": ["Peut être sous pression en cas de panne", "Complexité des systèmes"],
+      "exemple_parcours": "Formation en informatique, puis expérience dans des projets DevOps."
+    }
+  ]
+  
